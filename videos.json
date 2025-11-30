@@ -29,7 +29,7 @@
       "title": "Sintel",
       "description": "A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales.",
       "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sintel-dragon.jpg/330px-Sintel-dragon.jpg",
+      "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
       "duration": 888.0
     },
     {
@@ -37,7 +37,7 @@
       "title": "Tears of Steel",
       "description": "A group of warriors and scientists battle to protect their city against robots in a future Amsterdam.",
       "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Manus_%28Tears_of_Steel%29.png/330px-Manus_%28Tears_of_Steel%29.png",
+      "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
       "duration": 734.0
     }
   ]
