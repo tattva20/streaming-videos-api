@@ -1,0 +1,20 @@
+{
+  "videos": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "For Bigger Blazes",
+      "description": "HBO GO now works with Chromecast. Streaming entertainment has never been easier.",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+      "duration": 15.0
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "title": "Sintel",
+      "description": "A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales.",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "duration": 888.0
+    }
+  ]
+}

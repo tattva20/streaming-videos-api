@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "title": "Tears of Steel",
+      "description": "A group of warriors and scientists battle to protect their city against robots in a future Amsterdam.",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "duration": 734.0
+    }
+  ]
+}
