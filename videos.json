@@ -16,5 +16,6 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_both.jpg/330px-Elephants_Dream_s5_both.jpg",
       "duration": 653.0
     }
-  ]
+  ],
+  "next": "https://tattva20.github.io/streaming-videos-api/videos_page2.json"
 }

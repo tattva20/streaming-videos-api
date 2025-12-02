@@ -16,5 +16,6 @@
       "thumbnail_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
       "duration": 888.0
     }
-  ]
+  ],
+  "next": "https://tattva20.github.io/streaming-videos-api/videos_page3.json"
 }

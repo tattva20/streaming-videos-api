@@ -1,0 +1,13 @@
+{
+  "name": "streaming-videos-api",
+  "version": "1.0.0",
+  "description": "Serverless API for streaming videos with pagination support",
+  "main": "api/v1/videos.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["videos", "api", "pagination", "serverless"],
+  "author": "",
+  "license": "MIT"
+}
