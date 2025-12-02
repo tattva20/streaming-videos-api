@@ -2,6 +2,10 @@
   "version": 2,
   "rewrites": [
     {
+      "source": "/v1/videos/:id/comments",
+      "destination": "/api/v1/videos/:id/comments"
+    },
+    {
       "source": "/v1/videos",
       "destination": "/api/v1/videos"
     }
