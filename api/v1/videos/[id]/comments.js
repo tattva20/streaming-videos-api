@@ -45,8 +45,11 @@ function generateComments(videoId) {
     const minutesAgo = i * 15 + (seed % 30) + i * (seed % 10);
     const createdAt = new Date(now.getTime() - minutesAgo * 60 * 1000);
 
+    // Generate a valid UUID for each comment
+    const commentId = `${videoId.substring(0, 8)}-${seed.toString(16).padStart(4, '0')}-4${i.toString().padStart(3, '0')}-a000-${(seed + i).toString(16).padStart(12, '0')}`;
+
     comments.push({
-      id: `${videoId.substring(0, 8)}-comm-${i.toString().padStart(4, '0')}-${seed.toString(16).padStart(4, '0')}`,
+      id: commentId,
       message: commentMessages[messageIndex],
       created_at: createdAt.toISOString(),
       author: {
