@@ -6,35 +6,35 @@ const videoTemplates = [
   {
     title: "Big Buck Bunny",
     description: "A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness.",
-    url: "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+    url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/330px-Big_buck_bunny_poster_big.jpg",
     duration: 596.0
   },
   {
     title: "Elephant Dream",
     description: "The first Blender open movie project. Two men navigate through a surreal, mechanical world.",
-    url: "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+    url: "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
     thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_both.jpg/330px-Elephants_Dream_s5_both.jpg",
     duration: 653.0
   },
   {
     title: "For Bigger Blazes",
     description: "HBO GO now works with Chromecast. Streaming entertainment has never been easier.",
-    url: "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_1MB.mp4",
+    url: "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
     thumbnail_url: "https://picsum.photos/seed/blazes/640/360",
     duration: 15.0
   },
   {
     title: "Sintel",
     description: "A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales.",
-    url: "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
+    url: "https://test-streams.mux.dev/pts_shift/master.m3u8",
     thumbnail_url: "https://picsum.photos/seed/sintel/640/360",
     duration: 888.0
   },
   {
     title: "Tears of Steel",
     description: "A group of warriors and scientists battle to protect their city against robots in a future Amsterdam.",
-    url: "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov",
+    url: "https://test-streams.mux.dev/tos_ismc/main.m3u8",
     thumbnail_url: "https://picsum.photos/seed/tearsofsteel/640/360",
     duration: 734.0
   }
